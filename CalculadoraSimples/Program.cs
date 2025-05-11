@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Qual operação deseja fazer?");
+﻿//Versão 1.0.0
+Console.WriteLine("Qual operação deseja fazer?");
 Console.WriteLine("Digite 1 para adição +");
 Console.WriteLine("Digite 2 para Subtração -");
 Console.WriteLine("Digite 3 para Multiplicação *");
@@ -25,6 +26,6 @@ switch (operacao)
 };
 
 Console.WriteLine($"Resultado {resultado}");
-        
+  
 
 
